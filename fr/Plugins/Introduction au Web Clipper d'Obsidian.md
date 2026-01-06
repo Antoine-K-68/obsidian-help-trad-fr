@@ -16,10 +16,10 @@ Tout d'abord, installez le web clipper d'Obsidian à partir du catalogue d'exten
 1. [[Enregistrer des pages internet]] ; 
 2. [[Surligner du contenu]] ; 
 3. [[L'outil Interpréteur]] ; 
-4. Créer des templates ; 
-5. Utiliser des variables ;
-6. Utiliser des filtres ;
-7. Problèmes éventuels avec le web clipper.
+4. [[Créer des templates]] ; 
+5. [[Utiliser des variables]] ;
+6. [[Utiliser des filtres]] ;
+7. [[Problèmes éventuels avec le web clipper]].
 
 ## Enregistrer des pages internet
 
