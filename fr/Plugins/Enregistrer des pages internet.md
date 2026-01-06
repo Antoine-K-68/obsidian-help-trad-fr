@@ -5,7 +5,7 @@ Une fois que vous avez installé l'extension navigateur du web clipper, vous pou
 
 Pour sauvegarder une page Obsidian, cliquez sur le bouton **Ajouter à Obsidian.**
 
-### Enregistrer votre première page internet
+## Enregistrer votre première page internet
 
 Quand vous ouvrez l'extension, le web clipper extraits les données depuis la page internet que vous êtes en train de consulter, selon les paramètres que vous avez défini dans votre template. Vous pouvez créer vos propres templates et les personnaliser en utilisant les variables et les filtres. 
 
@@ -14,13 +14,13 @@ Le Web clipper extrait uniquement le contenu important des pages, en excluant le
 - Lorsqu'une sélection est activée (vous pouvez utiliser le raccourcis clavier ``Ctrl/Cmd+A`` pour sélectionner la page en entier) ;
 - Si des surlignages sont présents, c'est ceux-ci qui seront enregistrés. 
 
-### Télécharger des images
+## Télécharger des images
 
 Les images ne sont pas automatiquement télécharger quand vous utilisez le Web clipper. À la place, vous obtiendrez dans le contenu importé un lien redirigeant vers l'URL Web de l'image en question. Cela permet d'économiser de l'espace dans votre coffre-fort mais cela veut aussi dire que les images ne seront pas accessible lorsque vous êtes hors ligne, ou si l'URL ne fonctionne plus. 
 
 Vous pouvez télécharger tout type d'images dans Obsidian en utilisant la commande **Télécharger des fichiers pour le fichier courant.** Cette commande peut aussi être paramétrée en tant que [[Raccourcis clavier|raccourci clavier]] dans Obsidian. 
 
-### Raccourcis clavier
+## Raccourcis clavier
 
 Le Web clipper inclus des [[Raccourcis clavier|raccourci clavier]] que vous pouvez utiliser pour rendre votre utilisation d'Obsidian plus efficace. Pour modifier les raccourci clavier du Web clipper, allez dans **Paramètres du Web clipper → Général** et suivez les instructions correspondant à votre navigateur Web. Le paramétrage peut être modifier pour presque tous les navigateur, à l'exception de Safari qui ne supporte pas la modification des raccourcis clavier. 
 
@@ -30,7 +30,7 @@ Le Web clipper inclus des [[Raccourcis clavier|raccourci clavier]] que vous pouv
 | Enregistrer rapidement      | `Alt+Shift+O`     | `Opt+Shift+O`   |
 | Basculer en mode surlignage | `Alt+Shift+H`     | ``Opt+Shift+H`` |
 
-### Fonctionnalités d'interface
+## Fonctionnalités d'interface
 
 L'interface du Web Clipper est divisée en quatre sections :
 1. **Titre** : c'est là où vous pouvez passe d'une template à une autre, activer le surlignage et accéder aux paramètres ; 
